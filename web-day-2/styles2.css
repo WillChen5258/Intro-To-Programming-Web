@@ -1,0 +1,18 @@
+h1 {
+    color: rgb(53, 53, 53)
+}
+
+body { 
+    font-family: Inter, 'Times New Roman';
+    background-color: grey;
+}
+
+div {
+    background-color: grey;
+    color: darkslategrey;
+    border: darkslategrey solid 2px;
+}
+
+p {
+    font-size: medium;
+}
